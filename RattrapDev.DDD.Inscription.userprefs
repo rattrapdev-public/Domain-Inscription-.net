@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{746F6776-4138-4A54-BF66-21C14CADD4AE}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RattrapDev.DDD.Inscription.Tests/Test.cs">
+    <Files>
+      <File FileName="RattrapDev.DDD.Inscription/MyClass.cs" Line="5" Column="3" />
+      <File FileName="RattrapDev.DDD.Inscription.Tests/Test.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RattrapDev.DDD.Inscription.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
